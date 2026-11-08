@@ -1,6 +1,20 @@
-# Hi, I'm Ruihang Zhang
+[![Ruihang Zhang · RayZh / Norb](assets/header.svg)](https://norb.space/)
 
-[**Website**](https://norb.space/) · [**Blog**](https://norb.space/blog) · [**Projects**](https://norb.space/projects)
+<p align="center">
+  <a href="https://norb.space/"><img alt="Website · norb.space" src="https://img.shields.io/badge/Website-norb.space-9DD7C5?style=for-the-badge&amp;labelColor=252B40" /></a>
+  <a href="https://norb.space/blog"><img alt="Read my blog" src="https://img.shields.io/badge/Blog-B6ABEF?style=for-the-badge&amp;logo=rss&amp;logoColor=252B40" /></a>
+  <a href="https://norb.space/projects"><img alt="Explore my projects" src="https://img.shields.io/badge/Projects-9DD7C5?style=for-the-badge&amp;logo=github&amp;logoColor=252B40" /></a>
+  <a href="https://norb.space/gallery"><img alt="Visit my gallery" src="https://img.shields.io/badge/Gallery-F0B6A3?style=for-the-badge&amp;logo=unsplash&amp;logoColor=252B40" /></a>
+</p>
+
+<!-- <p align="center">
+  <a href="https://acm.sjtu.edu.cn/home"><img alt="SJTU · ACM Honors Class" src="https://img.shields.io/badge/SJTU-ACM_Honors_Class-B6ABEF?style=flat-square&amp;labelColor=252B40" /></a>
+  <a href="https://github.com/GAIR-NLP"><img alt="Researcher at GAIR Lab" src="https://img.shields.io/badge/Research-GAIR_Lab-9DD7C5?style=flat-square&amp;labelColor=252B40" /></a>
+  <a href="https://github.com/RayZh-hs?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/RayZh-hs?style=flat-square&amp;label=Follow&amp;logo=github&amp;logoColor=white&amp;labelColor=252B40&amp;color=F0B6A3" /></a>
+</p>
+-->
+
+## Hi! Nice to meet you :)
 
 I'm a computer science student at [ACM Honors Class](https://acm.sjtu.edu.cn/home) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), and a researcher at [GAIR Lab](https://github.com/GAIR-NLP). You might also know me as **Norb**.
 
@@ -24,9 +38,32 @@ I am a core developer at ACM class, and one of the co-founders of the [ACM Dojo]
 
 You can find a full suite [here at Github](https://github.com/RayZh-hs?tab=repositories&type=source). -->
 
-## Tools I work with
+## My toolkit
 
-- **Software Programming Languages:** Rust, C++, Kotlin, Python, Go
-- **Hardware development:** Scala, Chisel
+**Software Development**
+
+![Rust](https://img.shields.io/badge/Rust-252B40?style=flat-square&logo=rust&logoColor=F0B6A3) ![C++](https://img.shields.io/badge/C%2B%2B-252B40?style=flat-square&logo=cplusplus&logoColor=A8C7FA) ![Kotlin](https://img.shields.io/badge/Kotlin-252B40?style=flat-square&logo=kotlin&logoColor=B6ABEF) ![Python](https://img.shields.io/badge/Python-252B40?style=flat-square&logo=python&logoColor=E8CF96) ![Go](https://img.shields.io/badge/Go-252B40?style=flat-square&logo=go&logoColor=9DD7C5) ![TypeScript](https://img.shields.io/badge/TypeScript-252B40?style=flat-square&logo=typescript&logoColor=A8C7FA) ![JavaScript](https://img.shields.io/badge/JavaScript-252B40?style=flat-square&logo=javascript&logoColor=E8CF96) ![Vue](https://img.shields.io/badge/Vue-252B40?style=flat-square&logo=vuedotjs&logoColor=9DD7C5)
+
+**Hardware Development**
+
+![Scala](https://img.shields.io/badge/Scala-252B40?style=flat-square&logo=scala&logoColor=F0B6A3) ![Chisel](https://img.shields.io/badge/Chisel-252B40?style=flat-square)
+
+**Working Environment**
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-252B40?style=flat-square&logo=archlinux&logoColor=A8C7FA)
+
+## Recent GitHub activity
+
+<!-- ACTIVITY:START -->
+- `2026-11-07` · 🔨 Pushed to [TheUnknownThing/PCL-ME](https://github.com/TheUnknownThing/PCL-ME/commit/21cb8dde4e3f7d080b81b7389af09342102f1291)
+- `2026-11-06` · 💬 Commented on [TheUnknownThing/PCL-ME#35](https://github.com/TheUnknownThing/PCL-ME/issues/35#issuecomment-6690664255)
+- `2026-11-06` · 🔨 Pushed to [TheUnknownThing/PCL-ME](https://github.com/TheUnknownThing/PCL-ME/commit/a3f51a3838906f8ce17ff3e48ad5745f71b7dba2)
+- `2026-11-06` · 🔨 Pushed to [RayZh-hs/BackstabbedXX](https://github.com/RayZh-hs/BackstabbedXX/commit/508813426254c0b52deeda3ba153615f9e1b3778)
+- `2026-11-06` · 💬 Opened issue [TheUnknownThing/PCL-ME#35](https://github.com/TheUnknownThing/PCL-ME/issues/35)
+<!-- ACTIVITY:END -->
+
+<sub>Public activity · <a href="https://github.com/RayZh-hs?tab=overview">View more on GitHub →</a></sub>
+
+## Apart from being a CS student ...
 
 Beyond engineering, I enjoy VFX, photography, and building redstone in Minecraft. Some of that work lives in my [gallery](https://norb.space/gallery).

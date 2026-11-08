@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Ruihang Zhang. Also known as RayZh and Norb.</title>
+  <desc id="desc">Research, engineering and a little curiosity.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#151C28"/>
+      <stop offset="1" stop-color="#252B40"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#B6ABEF" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#B6ABEF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="1136" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9DD7C5"/>
+      <stop offset=".55" stop-color="#B6ABEF"/>
+      <stop offset="1" stop-color="#F0B6A3"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#B6ABEF" fill-opacity=".13"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="300" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#background)"/>
+    <rect x="700" width="500" height="300" fill="url(#grid)"/>
+    <ellipse cx="987" cy="143" rx="300" ry="240" fill="url(#glow)"/>
+    <path d="M64 1.5H1136" stroke="url(#accent)" stroke-width="3"/>
+
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <text x="64" y="65" fill="#9DD7C5" font-family="ui-monospace, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3">RAYZH / NORB</text>
+      <text x="60" y="143" fill="#F1F3F8" font-size="64" font-weight="700" letter-spacing="-2">Ruihang Zhang<tspan fill="#9DD7C5">.</tspan></text>
+      <text x="64" y="187" fill="#B9C0D0" font-size="23">A student researcher active in the open source community.</text>
+      <text x="64" y="253" fill="#8F9AB0" font-family="ui-monospace, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2">LLM TRAINING <tspan fill="#59647C"> / </tspan> AGENTS <tspan fill="#59647C"> / </tspan> VISION</text>
+    </g>
+
+    <g stroke-width="1.5">
+      <ellipse cx="958" cy="148" rx="168" ry="100" transform="rotate(-24 958 148)" stroke="#B6ABEF" stroke-opacity=".24"/>
+      <ellipse cx="958" cy="148" rx="125" ry="120" transform="rotate(35 958 148)" stroke="#9DD7C5" stroke-opacity=".12"/>
+      <path d="M806 116L877 63L958 148L1060 76L1102 177L1021 243L958 148L856 215L806 116ZM877 63L1060 76M856 215L1021 243" stroke="#707F9E" stroke-opacity=".45"/>
+      <path d="M877 63L958 148L1021 243M806 116L958 148L1102 177" stroke="url(#accent)" stroke-opacity=".7"/>
+      <rect x="926" y="116" width="64" height="64" rx="18" fill="#252F40" stroke="#9DD7C5" stroke-opacity=".8" transform="rotate(-8 958 148)"/>
+      <path d="M949 137L938 148L949 159M967 137L978 148L967 159" stroke="#9DD7C5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="806" cy="116" r="5" fill="#9DD7C5" stroke="#253243" stroke-width="6"/>
+      <circle cx="877" cy="63" r="5" fill="#B6ABEF" stroke="#303047" stroke-width="6"/>
+      <circle cx="1060" cy="76" r="5" fill="#F0B6A3" stroke="#363043" stroke-width="6"/>
+      <circle cx="1102" cy="177" r="5" fill="#B6ABEF" stroke="#303047" stroke-width="6"/>
+      <circle cx="1021" cy="243" r="5" fill="#9DD7C5" stroke="#253243" stroke-width="6"/>
+      <circle cx="856" cy="215" r="5" fill="#F0B6A3" stroke="#363043" stroke-width="6"/>
+    </g>
+    <g fill="#8793AD" font-family="ui-monospace, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1">
+      <text x="798" y="96">train</text>
+      <text x="1081" y="205">build</text>
+      <text x="808" y="244">explore</text>
+    </g>
+  </g>
+</svg>
