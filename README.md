@@ -8,7 +8,7 @@ My research focuses on **LLM training**, **agentic scaffolds**, and **LLM visual
 
 My engineering projects span programming languages and runtimes, computer architecture, and scientific computing. I also build tools for my Linux desktop and explore procedural graphics.
 
-[Website](https://norb.space/) · [Writing](https://norb.space/blog) · [Project notes](https://norb.space/projects)
+[Website](https://norb.space/) · [Blog](https://norb.space/blog) · [Project notes](https://norb.space/projects)
 
 ## Selected engineering projects
 
