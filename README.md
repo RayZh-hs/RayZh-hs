@@ -1,4 +1,4 @@
-# Hi, I'm RayZh
+# Hi, I'm Ruihang Zhang
 
 [**Website**](https://norb.space/) · [**Blog**](https://norb.space/blog) · [**Projects**](https://norb.space/projects)
 
