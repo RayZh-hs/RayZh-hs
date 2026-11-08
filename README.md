@@ -10,7 +10,7 @@ My engineering projects span programming languages, computer architecture, and s
 
 I am a core developer at ACM class, and one of the co-founders of the [ACM Dojo](https://github.com/acm-dojo), an engaging, challenge-based learning platform for computer science freshmen to master CS skills.
 
-## Selected engineering projects
+<!-- ## Selected engineering projects
 
 | Project | Description |
 | --- | --- |
@@ -22,7 +22,7 @@ I am a core developer at ACM class, and one of the co-founders of the [ACM Dojo]
 | [**VSCode ACMOJ**](https://github.com/TheUnknownThing/vscode-acmoj) | A simple integration of ACMOJ into VSCode, co-authored with [TheUnknownThing](https://github.com/TheUnknownThing/) et al. |
 | [**FlowWM**](https://github.com/RayZh-hs/flow-wm) | An experimental **Wayland** desktop that connects windows, commands, scripts, and agents in a node graph. |
 
-You can find a full suite [here at Github](https://github.com/RayZh-hs?tab=repositories&type=source).
+You can find a full suite [here at Github](https://github.com/RayZh-hs?tab=repositories&type=source). -->
 
 ## Tools I work with
 
